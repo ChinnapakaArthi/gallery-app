@@ -1,0 +1,13 @@
+/* Write your code here. */
+.image-item-container {
+  margin: 5px;
+  list-style-type: none;
+}
+.image {
+  opacity: 0.5;
+  cursor: pointer;
+}
+.active-image {
+  opacity: 1;
+  cursor: pointer;
+}
